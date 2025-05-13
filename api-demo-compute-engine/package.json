@@ -1,0 +1,19 @@
+{
+  "name": "be-sample",
+  "version": "1.0.0",
+  "description": "demo cc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "howlil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security"
+  }
+}

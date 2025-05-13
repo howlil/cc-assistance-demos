@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Belajar Node.js",
+      "description": "Mempelajari cara membuat API dengan Node.js.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Membaca Buku",
+      "description": "Membaca buku tentang pengembangan perangkat lunak.",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Olahraga Pagi",
+      "description": "Melakukan olahraga pagi untuk menjaga kesehatan.",
+      "completed": false
+    }
+  ]
+  
