@@ -1,4 +1,4 @@
-runtime: nodejs18
+runtime: nodejs20
 
 handlers:
   - url: /
@@ -13,5 +13,3 @@ handlers:
     static_files: dist/index.html
     upload: dist/index.html
 
-env_variables:
-  BUCKET_NAME: "steve-job"
